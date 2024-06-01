@@ -8,8 +8,8 @@ sys.path.append(r'c:\users\sansk\appdata\local\programs\python\python38\lib\site
 
 from twilio.rest import Client
 
-account_sid = 'AC2be3cd3b78ee8d11c4e479cbf9db6320'
-auth_token = 'f42ffd457f82f621600f3663e77debbf'
+# account_sid = ''
+# auth_token = ''
 client = Client(account_sid, auth_token)
 
 # Stock and news API credentials

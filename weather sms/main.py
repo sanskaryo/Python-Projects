@@ -4,7 +4,7 @@ from twilio.rest import Client
 
 owm = "https://api.openweathermap.org/data/2.5/forecast"
 
-api = "028abf845a5e1b62a538c9bdd5f9f182"
+api = ""
 
 
 weather_params = {
