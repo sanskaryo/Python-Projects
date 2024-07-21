@@ -5,8 +5,7 @@ from selenium.webdriver.common.keys import Keys
 import time
 from selenium.common.exceptions import NoSuchElementException
 
-username = 'sankhuzzy@gmail.com'
-password = 'Mynameisdon2'
+
 
 
 chrome_options = webdriver.ChromeOptions()

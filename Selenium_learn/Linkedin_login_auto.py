@@ -4,8 +4,7 @@ from selenium.webdriver.common.keys import Keys
 import time
 
 # Replace these with your LinkedIn credentials
-username = 'sankhuzzy@gmail.com'
-password = 'Mynameisdon2'
+
 
 
 chrome_options = webdriver.ChromeOptions()
